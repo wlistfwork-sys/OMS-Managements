@@ -1,0 +1,6 @@
+{
+  "name": "HPC Enterprise Expense & Ledger Portal",
+  "description": "Enterprise expense management, receipt reimbursement tracking, automated manager approvals, regional payroll tax withholding, and HPC daily cash ledger reconciliation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
